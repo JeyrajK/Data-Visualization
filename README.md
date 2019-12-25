@@ -130,3 +130,10 @@ To quit , press CRTL+C.
     The Text Dashboard displays text snippets saved via tf.summary.text. Markdown features including hyperlinks, lists, and tables are all supported.
 </p>   
    
+## References :
+
+https://matplotlib.org/3.1.1/tutorials/introductory/pyplot.html </br>
+https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html </br>
+https://seaborn.pydata.org/ </br>
+https://www.tensorflow.org/tensorboard </br>
+https://pytorch.org/docs/stable/tensorboard.html </br>
